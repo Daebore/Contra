@@ -22,4 +22,4 @@ The code is being written by me, however the art is not mine, it has been create
 
 - spacebar to move shoot
 
-<img src="https://github.com/Daebore/Images/blob/main/demoContra.gif?raw=true" width="420" height="300" />
+<img src="https://github.com/Daebore/Images/blob/main/demoContra.gif?raw=true" width="380" height="240" />
