@@ -18,8 +18,8 @@ The code is being written by me, however the art is not mine, it has been create
 
 - d to move right
 
-- w to move jump
+- w to jump
 
-- spacebar to move shoot
+- spacebar to shoot
 
 <img src="https://github.com/Daebore/Images/blob/main/demoContra.gif?raw=true" width="380" height="240" />
