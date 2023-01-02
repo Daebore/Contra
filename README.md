@@ -9,4 +9,15 @@
 
 The code is being written by me, however the art is not mine, it has been created by the user didigameboy (the user's profile can be easily find on The Unity Asset Store).
 
-This game is based on the Contra/Probotector games made by Konami, specially on the first one for the NES.
+It is a run and gun game, based on the Contra/Probotector games made by Konami, specially on the first one for the NES.
+
+## 	:video_game: Controls 
+- a to move left
+
+- d to move right
+
+- w to move jump
+
+- spacebar to move shoot
+
+<img src="https://github.com/Daebore/Images/blob/main/demoContra.gif?raw=true" width="420" height="300" />
