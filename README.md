@@ -22,4 +22,6 @@ The code is being written by me, however the art is not mine, it has been create
 
 - spacebar to shoot
 
-<img src="https://github.com/Daebore/Images/blob/main/demoContra.gif?raw=true" width="380" height="240" />
+<p align="center">
+  <img src="https://github.com/Daebore/Images/blob/main/demoContra.gif?raw=true" width="380" height="240" />
+</p>
